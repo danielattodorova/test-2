@@ -1,3 +1,4 @@
 Text file 
 added a new line
-теттетет
+
+added a new line from Branch-1 
