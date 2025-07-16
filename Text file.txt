@@ -9,3 +9,6 @@ added it from second commit in Branch-2
 
 
 added a row in the second commit 
+
+
+commit directly in the main after merging the Branch-2 and then Branch-1
