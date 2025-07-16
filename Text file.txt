@@ -2,3 +2,5 @@ Text file
 added a new line
 теттетет
 added a text from Branch-2
+
+added it from second commit in Branch-2
