@@ -6,3 +6,6 @@ added a new line from Branch-1
 added a text from Branch-2
 
 added it from second commit in Branch-2
+
+
+added a row in the second commit 

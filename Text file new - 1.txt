@@ -1,3 +1,5 @@
 Text file 
 added a new line
 теттетет
+
+added this row in the second commit 
